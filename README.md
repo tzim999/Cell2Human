@@ -12,7 +12,7 @@ Reads the Schizophyllum56.csv file and plays the voltage as notes or percussion 
 Change Line 29 from 9 to 1 if you want to hear notes.
 
 # playNoteChord_2.py #
-Library of functions to play midi commands, including note and program (instrument) changes
+Library of functions to play midi commands, including note and program (instrument) changes. Requires installation of rtmidi, see https://www.music.mcgill.ca/~gary/rtmidi/
 
 # Schizophyllum56.csv #
 Differential voltage of mushroom electrodes 5 to 6 subsampled 1:1000, edited and voltage shifted.
