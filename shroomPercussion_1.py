@@ -15,7 +15,7 @@ import time
 
 duration=.16 # how long note plays
 
-fileName=r'Schizophyllum_5_6.csv'
+fileName=r'Schizophyllum56.csv'
     
 shrume=np.loadtxt(fileName,delimiter=',')
 maxSignal=shrume.max()
