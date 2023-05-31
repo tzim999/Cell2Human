@@ -15,7 +15,7 @@ import time
 
 duration=.16 # how long note plays
 
-fileName=r'C:/Users/820763897/Documents/Docs/PROJECTS/CCC/Exploratorium/Mushrooms/Schizophyllum 5-6 offset.csv'
+fileName=r'Schizophyllum_5_6.csv'
     
 shrume=np.loadtxt(fileName,delimiter=',')
 maxSignal=shrume.max()
